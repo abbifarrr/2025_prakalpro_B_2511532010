@@ -15,5 +15,6 @@ public class tugasAlproPekan2 {
         System.out.println("\nBerat Badan     : " + Berat);
         System.out.println("\nStatus Obesitas : " + StatusObesitas);
         System.out.println("\nObesitas        : " + obesitas);
+    	
     }
 }
